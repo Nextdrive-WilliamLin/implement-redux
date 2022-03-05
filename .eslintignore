@@ -1,0 +1,10 @@
+jest.config.js
+node_modules
+assets
+public
+dist
+coverage
+static
+locales
+migration
+*.d.ts
